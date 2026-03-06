@@ -1,0 +1,8 @@
+{
+  "name": "Remix: RuraHealth AI",
+  "description": "A lightweight healthcare AI for rural communities, supporting human, animal, and crop health analysis via symptoms and images.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
